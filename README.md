@@ -17,5 +17,5 @@ To add a quote:
  - Add the quote to Quotes.txt in the following format
     Quote - Author(Author need not be mentioned)
 
-
-  
+Clock plugin used:
+https://www.deviantart.com/apexxx-sensei/art/Robik-771914763
