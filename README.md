@@ -1,6 +1,7 @@
 # Rainmeter Skin
 Rainmeter Skin (Slideshow and Quote)
 Preview:
+[!alt preview](image.png)
 
 
 # Slideshow
