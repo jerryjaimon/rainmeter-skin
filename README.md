@@ -1,8 +1,7 @@
 # Rainmeter Skin
 Rainmeter Skin (Slideshow and Quote)
 Preview:
-[!alt preview](image.png)
-
+<img src="https://github.com/jerryjaimon/rainmeter-skin/blob/master/image.png">
 
 # Slideshow
 To add change folder path: 
